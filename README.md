@@ -57,10 +57,10 @@ This project uses an ESP8266 microcontroller to create a weather station that me
 
 ## ThingSpeak Data Upload Format
 ```
-Field1: Rain Sensor Value
-Field2: Temperature (°C)
-Field3: Temperature (°F)
-Field4: Humidity (%)
+Field1: Temperature (°C)
+Field2: Humidity (%)
+Field3: Pressure (Pa)
+Field4: Rainfall
 ```
 <center>
   <img src="https://github.com/user-attachments/assets/562e4909-3975-4c64-8f48-2af8ae008490">
