@@ -51,14 +51,9 @@ This project uses an ESP8266 microcontroller to create a weather station that me
 3. Access the web interface by entering the ESP8266's IP address in a browser.
 4. Monitor data on ThingSpeak.
 
-## Example Web Interface Output
-```
-Weather Station
-Rain Sensor Value: 450
-Temperature: 25°C
-Temperature: 77°F
-Humidity: 60%
-```
+<center>
+  <img src="https://github.com/user-attachments/assets/06612ff6-346e-4c00-a320-5f4cc96dd8a0">
+</center>
 
 ## ThingSpeak Data Upload Format
 ```
@@ -67,6 +62,10 @@ Field2: Temperature (°C)
 Field3: Temperature (°F)
 Field4: Humidity (%)
 ```
+<center>
+  <img src="https://github.com/user-attachments/assets/562e4909-3975-4c64-8f48-2af8ae008490">
+  <img src="https://github.com/user-attachments/assets/5524a3e7-f45b-4855-8864-821051233db0">
+</center>
 
 ## Notes
 - Ensure a stable WiFi connection for ThingSpeak updates.
