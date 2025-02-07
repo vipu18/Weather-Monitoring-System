@@ -64,7 +64,6 @@ Field4: Humidity (%)
 ```
 <center>
   <img src="https://github.com/user-attachments/assets/562e4909-3975-4c64-8f48-2af8ae008490">
-  <img src="https://github.com/user-attachments/assets/5524a3e7-f45b-4855-8864-821051233db0">
 </center>
 
 ## Notes
